@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="VJLz4wBClmrWltTQ995f">
-    <mxGraphModel dx="2047" dy="1397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2631" dy="2062" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,27 @@
         </mxCell>
         <mxCell id="TxHYkN0hvNUxsnSwECLp-82" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Kubernetes&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-913.0014438502674" y="276.61538461538464" width="83.32144385026739" height="25.769230769230766" as="geometry" />
+        </mxCell>
+        <mxCell id="TxHYkN0hvNUxsnSwECLp-83" value="EC2 instance contents" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-214" y="-71" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TxHYkN0hvNUxsnSwECLp-86" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-988" y="342" width="156.63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TxHYkN0hvNUxsnSwECLp-84" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ami;" vertex="1" parent="TxHYkN0hvNUxsnSwECLp-86">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TxHYkN0hvNUxsnSwECLp-85" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Custom AMI&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="TxHYkN0hvNUxsnSwECLp-86">
+          <mxGeometry x="73.30855614973257" y="13.995384615384637" width="83.32144385026739" height="25.769230769230766" as="geometry" />
+        </mxCell>
+        <mxCell id="TxHYkN0hvNUxsnSwECLp-93" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-997.14" y="414" width="165.76999999999998" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="TxHYkN0hvNUxsnSwECLp-88" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.opensearch_service_cluster_administrator_node;" vertex="1" parent="TxHYkN0hvNUxsnSwECLp-93">
+          <mxGeometry width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="TxHYkN0hvNUxsnSwECLp-92" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;rstudio-pm&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="TxHYkN0hvNUxsnSwECLp-93">
+          <mxGeometry x="82.44855614973255" y="17.995384615384637" width="83.32144385026739" height="25.769230769230766" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
